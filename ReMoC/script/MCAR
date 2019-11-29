@@ -1,0 +1,17 @@
+NL = 1        #Layer number
+TEM  = 300     #Temperature, 300 default
+
+#FitYoungs and Weff
+DIR  = c       #vacuum direction
+
+#FitMe
+KVBM = 0       #Kpoints, 0 for all
+VM  = 28       #VBM
+KCBM = 0
+CM  = 29       #CBM
+
+#FitEl
+KEV = 10       #Kpoint
+VE  = 28       #VBM
+KEC = 10
+CE  = 29       #CBM

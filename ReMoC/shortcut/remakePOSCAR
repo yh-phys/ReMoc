@@ -1,0 +1,1 @@
+python ~/bin/zlw_script/script/remakePOSCAR.py $1 $2 $3 $4
